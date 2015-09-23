@@ -97,4 +97,9 @@ rect(110,134,5,10);
 
 fill(255,105,5);          //Sun Colour 
 
-ellipse(30,35,50,50);      //Sun
+ellipse(30,35,50,50);     //Sun
+
+fill(252,252,252);        //Cloud Colour
+rect(110,30,50,10);        //Clouds 
+rect(125,20,30,10);
+rect(140,10,10,10);
