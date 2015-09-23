@@ -7,6 +7,13 @@ size(170,244);
 //Make Shape
 noStroke();
 
+fill(222,187,45);          //Backgroung (lower) 
+rect(0,0,300,300);
+
+fill(22,125,247);          //Background (Upper)
+rect(0.5,0.5,170,160); 
+
+
 fill(10,200,100);             //Green
 
 ellipse(85,135,50,50);        //Trunk
