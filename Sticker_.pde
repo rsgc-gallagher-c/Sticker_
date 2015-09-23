@@ -95,6 +95,6 @@ rect(125,137,5,10);
 rect(118,130,5,10);
 rect(110,134,5,10);
 
-fill(245,170,50);          //Sun Colour 
+fill(255,105,5);          //Sun Colour 
 
 ellipse(30,35,50,50);      //Sun
