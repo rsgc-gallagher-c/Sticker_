@@ -13,7 +13,7 @@ rect(0,0,300,300);
 fill(22,125,247);          //Background (Upper)
 rect(0,0,170,160); 
 
-fill(250,183,50);           //Pyramid 
+fill(200,90,10);           //Pyramid 
 rect(5,160,100,10); 
 rect(10,150,90,10); 
 rect(15,140,80,10); 
@@ -106,7 +106,7 @@ rect(125,137,5,10);
 rect(118,130,5,10);
 rect(110,134,5,10);
 
-fill(255,105,5);          //Sun Colour 
+fill(255,75,5);          //Sun Colour 
 
 ellipse(30,35,50,50);     //Sun
 
