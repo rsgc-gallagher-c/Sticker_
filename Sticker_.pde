@@ -11,7 +11,7 @@ fill(222,187,45);          //Backgroung (lower)
 rect(0,0,300,300);
 
 fill(22,125,247);          //Background (Upper)
-rect(0.5,0.5,170,160); 
+rect(0,0,170,160); 
 
 
 fill(10,200,100);             //Green
